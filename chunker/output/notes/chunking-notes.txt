@@ -1,0 +1,15 @@
+ASR Training Data Chunker - Run Summary
+===================================
+
+Timestamp: 2025-04-13 20:11:36
+Output directory: /home/daniel/Development/Repos/ASR-Training-Data-Chunker/chunker/output/20250413_201116
+
+Configuration:
+- Speaking speed: 180 words per minute
+- Desired chunk duration: 30.00 minutes
+
+Results:
+- Total words processed: 105882
+- Number of chunks created: 20
+- Estimated total reading time: 588.23 minutes
+- Average chunk duration: 29.41 minutes
